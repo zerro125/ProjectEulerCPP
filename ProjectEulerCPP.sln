@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 3 (Largest prime fa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 16 (Power digit sum)", "Problem 16 (Power digit sum)\Problem 16 (Power digit sum).vcxproj", "{C67D848F-83E1-4CC2-9691-D3186B7981B2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem6 (Sum square difference)", "Problem6 (Sum square difference)\Problem6 (Sum square difference).vcxproj", "{577D61F3-A6BF-4A38-8D27-ACC381E911F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{C67D848F-83E1-4CC2-9691-D3186B7981B2}.Release|x64.Build.0 = Release|x64
 		{C67D848F-83E1-4CC2-9691-D3186B7981B2}.Release|x86.ActiveCfg = Release|Win32
 		{C67D848F-83E1-4CC2-9691-D3186B7981B2}.Release|x86.Build.0 = Release|Win32
+		{577D61F3-A6BF-4A38-8D27-ACC381E911F5}.Debug|x64.ActiveCfg = Debug|x64
+		{577D61F3-A6BF-4A38-8D27-ACC381E911F5}.Debug|x64.Build.0 = Debug|x64
+		{577D61F3-A6BF-4A38-8D27-ACC381E911F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{577D61F3-A6BF-4A38-8D27-ACC381E911F5}.Debug|x86.Build.0 = Debug|Win32
+		{577D61F3-A6BF-4A38-8D27-ACC381E911F5}.Release|x64.ActiveCfg = Release|x64
+		{577D61F3-A6BF-4A38-8D27-ACC381E911F5}.Release|x64.Build.0 = Release|x64
+		{577D61F3-A6BF-4A38-8D27-ACC381E911F5}.Release|x86.ActiveCfg = Release|Win32
+		{577D61F3-A6BF-4A38-8D27-ACC381E911F5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
